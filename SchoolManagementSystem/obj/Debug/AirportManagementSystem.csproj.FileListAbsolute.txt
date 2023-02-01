@@ -1,0 +1,36 @@
+E:\C# Projects\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.exe.config
+E:\C# Projects\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.exe
+E:\C# Projects\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.pdb
+E:\C# Projects\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\AirportManagementSystem.csprojResolveAssemblyReference.cache
+E:\C# Projects\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.AdminLog.resources
+E:\C# Projects\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.AdminWindow.resources
+E:\C# Projects\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.FlightDetails.resources
+E:\C# Projects\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.MainWindow.resources
+E:\C# Projects\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.Passenger.resources
+E:\C# Projects\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.Properties.Resources.resources
+E:\C# Projects\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\AirportManagementSystem.csproj.GenerateResource.Cache
+E:\C# Projects\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.exe
+E:\C# Projects\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.pdb
+E:\C# Projects\Airport Management Sysytem New Edition\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.exe.config
+E:\C# Projects\Airport Management Sysytem New Edition\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.exe
+E:\C# Projects\Airport Management Sysytem New Edition\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.pdb
+E:\C# Projects\Airport Management Sysytem New Edition\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.exe
+E:\C# Projects\Airport Management Sysytem New Edition\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.pdb
+E:\C# Projects\Airport Management Sysytem New Edition\SchoolManagementSystem\obj\Debug\AirportManagementSystem.csprojResolveAssemblyReference.cache
+E:\C# Projects\Airport Management Sysytem New Edition\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.AdminLog.resources
+E:\C# Projects\Airport Management Sysytem New Edition\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.AdminWindow.resources
+E:\C# Projects\Airport Management Sysytem New Edition\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.Employee.resources
+E:\C# Projects\Airport Management Sysytem New Edition\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.FlightDetails.resources
+E:\C# Projects\Airport Management Sysytem New Edition\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.MainWindow.resources
+E:\C# Projects\Airport Management Sysytem New Edition\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.Passenger.resources
+E:\C# Projects\Airport Management Sysytem New Edition\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.Properties.Resources.resources
+E:\C# Projects\Airport Management Sysytem New Edition\SchoolManagementSystem\obj\Debug\AirportManagementSystem.csproj.GenerateResource.Cache
+E:\C# Projects\Airport M S\Airport Management Sysytem New Edition\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.exe.config
+E:\C# Projects\Airport M S\Airport Management Sysytem New Edition\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.exe
+E:\C# Projects\Airport M S\Airport Management Sysytem New Edition\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.pdb
+E:\C# Projects\Over\Airport Management Sysytem New Edition\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.exe.config
+E:\C# Projects\Over\Airport Management Sysytem New Edition\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.exe
+E:\C# Projects\Over\Airport Management Sysytem New Edition\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.pdb
+E:\C# Projects\Done Projects\Airport Management Sysytem New Edition\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.exe.config
+E:\C# Projects\Done Projects\Airport Management Sysytem New Edition\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.exe
+E:\C# Projects\Done Projects\Airport Management Sysytem New Edition\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.pdb
